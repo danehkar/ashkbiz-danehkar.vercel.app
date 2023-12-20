@@ -35,9 +35,9 @@ const jetBrainsMono = JetBrains_Mono({
 export const generateMetadata = async (): Promise<Metadata> => {
   const host = headers().get('host');
   const baseURL = `${protocol}://${host || vercelURL}`;
-  const siteName = `${fullName} Professional Résumé`;
-  const title = `Résumé | ${fullName} | Somewhere`;
-  const description = `Professional résumé for ${fullName}.`;
+  const siteName = `${fullName} Professional Résumé for Astronomy and Astrophysics`;
+  const title = `${fullName} | Astronomy and Astrophysics | Résumé `;
+  const description = `${fullName} Professional Résumé for Astronomy and Astrophysics on the Vercel Cloud Platform.`;
 
   return {
     metadataBase: new URL(baseURL),
