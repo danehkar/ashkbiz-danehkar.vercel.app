@@ -1,5 +1,5 @@
 ---
-title: Postdoctoral Fellow
+title: Postdoc Fellow
 organization: Harvard-Smithsonian Center for Astrophysics
 startDate: September 2015
 endDate: December 2018

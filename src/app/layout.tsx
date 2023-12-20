@@ -82,7 +82,7 @@ const RootLayout: React.FC<PropsWithChildren> = async ({ children }) => {
         jetBrainsMono.variable,
         resumeConfig.appTheme === ThemeSetting.Dark && 'dark',
       )}
-    ><meta name="google-site-verification" content="WNelk2tzy48aonUlho-bbUTHl1YNyoxTSd-MPevILNA" />
+    ><meta name="google-site-verification" content="WNelk2tzy48aonUlho-bbUTHl1YNyoxTSd-MPevILNA" /><meta name="msvalidate.01" content="9FBB288F1180F3C2A55231499D2CE4E0" />
       <body className="bg-neutral-1 text-neutral-12 selection:bg-accent-11 selection:text-neutral-1">
         {children}
       </body>
