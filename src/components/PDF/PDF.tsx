@@ -338,7 +338,7 @@ const PDF: React.FC<PDFProps> = ({ privateInformation }) => {
           <View style={styles.section}>
             <View style={styles.sectionHeading}>
               <CircleGraduationCap size={fontSizes.m} />
-              <Text>Achievements</Text>
+              <Text>Education</Text>
             </View>
             {sortedAchievements.map((achievement) => (
               <View key={achievement._id}>
