@@ -1,7 +1,7 @@
 ---
 givenName: Ashkbiz
 familyName: Danehkar
-title: Scientist II
+title: Astrophysicist and Astronomer
 location: Eureka Scientific, Inc.
 twitterUsername: danehkar
 ---
