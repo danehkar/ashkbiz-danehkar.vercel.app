@@ -9,14 +9,16 @@ interface PDFDownloadButtonProps {
 
 const PDFDownloadButton: React.FC<PDFDownloadButtonProps> = ({ secret }) => {
   return (
-    <ButtonLink
-      href={secret ? `/api/pdf?secret=${secret}` : '/api/pdf'}
-      size="lg"
-    >
-      <FontAwesomeIcon icon={faFilePdf} size="lg" />
-      View or Download PDF
-    </ButtonLink>
-  );
+/**
+ *    <ButtonLink
+ *      href={secret ? `/api/pdf?secret=${secret}` : '/api/pdf'}
+ *      size="lg"
+ *    >
+ *      <FontAwesomeIcon icon={faFilePdf} size="lg" />
+ *      View or Download PDF
+ *    </ButtonLink>
+ *  );
+ */
 };
 
 export default PDFDownloadButton;
