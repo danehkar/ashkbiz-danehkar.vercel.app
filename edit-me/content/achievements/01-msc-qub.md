@@ -1,6 +1,6 @@
 ---
 achievement: MSc in Plasma Physics
-organization: Queen's University Belfast, UK
+organization: Queen's University Belfast, 2009
 completionYear: 2009
 ---
 

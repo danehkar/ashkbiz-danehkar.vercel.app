@@ -1,6 +1,6 @@
 ---
 achievement: MSc in Computational Electrical Engineering
-organization: University of Rostock, Germany
+organization: University of Rostock, 2007
 completionYear: 2007
 ---
 
