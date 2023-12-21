@@ -19,3 +19,11 @@ title: Research
 - Morpho-kinematic Properties of Wolf-Rayet Planetary Nebulae, A. Danehkar, 2022, *The Astrophysical Journal Supplement Series*, Volume 260, Issue 1, id.14, 16 pp.
 - Physical and Chemical Properties of Wolf-Rayet Planetary Nebulae, A. Danehkar, 2021, *The Astrophysical Journal Supplement Series*, Volume 257, Issue 2, id.58, 23 pp.
 - Catastrophic Cooling in Superwinds. II. Exploring the Parameter Space, A. Danehkar, M. S. Oey, W. J. Gray, 2021, *The Astrophysical Journal*, Volume 921, Issue 1, id.91, 24 pp.
+
+**Researcher Identifiers**
+
+- ORCID: [0000-0003-4552-5997](https://orcid.org/0000-0003-4552-5997)
+- Google Scholar Citations: [a2LX8coAAAAJ](https://scholar.google.com/citations?user=a2LX8coAAAAJ)
+- Scopus Author Identifier: [34972723700](http://www.scopus.com/authid/detail.uri?authorId=34972723700)
+- Web of Science ResearcherID: [C-2053-2009](https://www.webofscience.com/wos/author/rid/C-2053-2009)
+
